@@ -1,0 +1,13 @@
+.bg {
+    background-image:url(image/wp9820535-4k-musical-wallpapers.jpg);
+    background-size: cover;
+}
+.artist {
+    color: aliceblue;
+}
+.text-center {
+    color: antiquewhite;
+}
+.btn {
+    background-color: rgb(67, 70, 73);
+}
